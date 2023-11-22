@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e5e6372.css",
+    "main.js": "/static/js/main.c4305775.js",
+    "static/js/787.a9ca631a.chunk.js": "/static/js/787.a9ca631a.chunk.js",
+    "static/media/setting.svg": "/static/media/setting.6c515725e7bf6d108614b6adaf3f967a.svg",
+    "static/media/bell2.svg": "/static/media/bell2.f79b5462bef1808c164b52ff62ad223c.svg",
+    "static/media/admin.svg": "/static/media/admin.1eb068e32da028f500cbd3f13a906c5e.svg",
+    "index.html": "/index.html",
+    "static/media/calendar.svg": "/static/media/calendar.0aa970cf2052f800fc7aecd31246f748.svg",
+    "static/media/trello.svg": "/static/media/trello.2045bba67077fd78bb54ad95d6238f5d.svg",
+    "static/media/layout.svg": "/static/media/layout.4d16993b5d384a25924ff8abf1bdc39d.svg",
+    "static/media/mail.svg": "/static/media/mail.eee1baa73917a6ad8cc5ab655510875a.svg",
+    "static/media/bxs-contact.svg": "/static/media/bxs-contact.79307b35ff31825ce055d5cfc9b2fe9c.svg",
+    "static/media/message.svg": "/static/media/message.da92dd7a0359c3b9e6fbb8b09043b968.svg",
+    "static/media/down.svg": "/static/media/down.c3e123cf78bc368a192f3e2dee97daba.svg",
+    "main.5e5e6372.css.map": "/static/css/main.5e5e6372.css.map",
+    "main.c4305775.js.map": "/static/js/main.c4305775.js.map",
+    "787.a9ca631a.chunk.js.map": "/static/js/787.a9ca631a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e5e6372.css",
+    "static/js/main.c4305775.js"
+  ]
+}
